@@ -1,0 +1,48 @@
+FINALES PRÁCTICA 10-05-2023:
+VAcabar Actividades
+VCambiar Iconos de Servicios y Filosofía
+VAñadir Vídeo Portada y Vídeo de Qué Quieren nuestros padres?
+VAñadir el Texto de Qué quieren nuestros padres?
+VFotos e informacion Instalaciones.
+
+VCambiar el orden de las secciones Correctamente. 
+
+-Añadir lo de la barra azul al posicionarte en una sección a la NavBar.
+
+VTocar el Menú para móviles y tablets.
+
+YA ESTARÍA
+
+
+
+
+
+*1º:*
+
+VBarra de Navegación
+-Portada y Fondo
+
+VSección de Bloque de contenido
+
+VContacto
+VFooter
+
+-Separadores
+
+*2º:*
+-Noticias
+-Servicios
+-Equipo
+-Instalaciones
+-Opiniones
+
+*3º:*
+-Que es un Centro de Día/ Qué hacemos?
+
+
+*4º:*
+-Iluminar links segun la seccion visualizada
+-Barra de progreso con gradiant abajo de todo
+-
+
+
